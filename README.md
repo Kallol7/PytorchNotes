@@ -1,2 +1,2 @@
 Pretrained:
-- The notebook contains a demo on how to load a Pytorch pretrained model from Hugging Face and retrain it. Change model structure accordingly. 
+- The folder "Pretrained" contains a demo on how to load a Pytorch pre-trained model from Hugging Face and retrain it. Change model structure accordingly. If you compare the notebooks "Pretrained.ipynb" and "Pretrained_Same_Domain.ipynb", you will find that it is always better to find a pre-trained model of the same domain rather than using the latest generalistic pre-trained model. 
